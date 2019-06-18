@@ -1,0 +1,5 @@
+c:\users\masyanya\documents\visual studio 2013\Projects\DataTree.tech\DataTree.tech\bin\Debug\DataTree.tech.dll
+c:\users\masyanya\documents\visual studio 2013\Projects\DataTree.tech\DataTree.tech\bin\Debug\DataTree.tech.pdb
+c:\users\masyanya\documents\visual studio 2013\Projects\DataTree.tech\DataTree.tech\obj\Debug\DataTree.tech.csprojResolveAssemblyReference.cache
+c:\users\masyanya\documents\visual studio 2013\Projects\DataTree.tech\DataTree.tech\obj\Debug\DataTree.tech.dll
+c:\users\masyanya\documents\visual studio 2013\Projects\DataTree.tech\DataTree.tech\obj\Debug\DataTree.tech.pdb
